@@ -1,0 +1,7 @@
+C:\dev\C#\C21 Ex05 MeshiMordoh 316106590 HannaKatz 311276398\FourInARow\bin\Debug\FourInARow.exe
+C:\dev\C#\C21 Ex05 MeshiMordoh 316106590 HannaKatz 311276398\FourInARow\bin\Debug\FourInARow.pdb
+C:\dev\C#\C21 Ex05 MeshiMordoh 316106590 HannaKatz 311276398\FourInARow\bin\Debug\FourInARowLogic.dll
+C:\dev\C#\C21 Ex05 MeshiMordoh 316106590 HannaKatz 311276398\FourInARow\bin\Debug\FourInARowLogic.pdb
+C:\dev\C#\C21 Ex05 MeshiMordoh 316106590 HannaKatz 311276398\FourInARow\obj\Debug\FourInARow.csprojResolveAssemblyReference.cache
+C:\dev\C#\C21 Ex05 MeshiMordoh 316106590 HannaKatz 311276398\FourInARow\obj\Debug\FourInARow.exe
+C:\dev\C#\C21 Ex05 MeshiMordoh 316106590 HannaKatz 311276398\FourInARow\obj\Debug\FourInARow.pdb
